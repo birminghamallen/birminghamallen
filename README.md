@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @birminghamallen
-- 👀 I’m interested in security and game development. 
-- 🌱 I’m currently learning how to make discord bots with discordJS.  
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in blockchain tech and its applications. I believe getting the foot in the door now is key to success in the future. 6
+- 🌱 I’m currently learning about NEXT JS and Gatsby web dev.  
+- 💞️ I’m looking to collaborate on react js projects.
 - 📫 You can reach me at my email avbirm@outlook.com
 
 <!---
