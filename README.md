@@ -1,22 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=shiyner&label=views)
-```python
-print(f'Follow {user} on Github')
-```
-
-```python
-       OS  :  nt10
-   Python  :  python 3.9.12
-Languages  :  Python, Java, Js, Batch, C, HTML/CSS
-  Discord  :  809507498263707728
-   Server  :  995960657214189578
-```
-
-```json
-Knowledge is power.
-```
-
-
-
 
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
